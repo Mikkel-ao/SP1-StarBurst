@@ -82,7 +82,7 @@ class Star {
   }
 
   void display() {
-    //To try and get a "starburst" candy-like color palette... And to implement logical operators for the assignment requirements.
+    //Code for applying color to the stars in an unnecessary way to implement logical operators for the assignment requirements.
     if (mass <= -8)  {
       fill(coral);
     }
