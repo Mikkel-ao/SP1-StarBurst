@@ -1,4 +1,4 @@
-int numOfStars = 500; // Change the value determine amount of stars created.
+int numOfStars = 500; // Determines number of stars created.
 Star[] stars = new Star[numOfStars];
 
 void setup() {

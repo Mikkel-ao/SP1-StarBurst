@@ -81,9 +81,7 @@ class Star {
     starTemplate(0, 0, 20, 10, 5);
   }
 
-  // Color & shapes to display.
   void display() {
-    
     //To try and get a "starburst" candy-like color palette... And to implement logical operators for the assignment requirements.
     if (mass <= -8)  {
       fill(coral);
